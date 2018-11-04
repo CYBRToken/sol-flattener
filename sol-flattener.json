@@ -1,0 +1,6 @@
+{
+  "source": "../vesting-schedule/contracts/VestingSchedule.sol",
+  "destination": "../vesting-schedule/flattened/VestingSchedule.sol",
+  "search": "./,../node_modules",
+  "removeRedundantEmptyLines": true
+}
